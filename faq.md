@@ -8,6 +8,8 @@ What is Contentify?
 
 That means your non technical collaborators can now focus on and change the content/wording of your website without needing the technical collaborators to do so. The latter can continue to take care of the design / code.
 
+Jon
+
 How does it work?
 -----------------
 
